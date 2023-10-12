@@ -25,6 +25,10 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+
+        {% if entry.abbrtype %}
+          <abbrtype class="award badge">{{ entry.abbrtype }}</abbrtype>
+        {% endif %}
         </div>
 
         <!-- Entry bib key -->
@@ -63,12 +67,12 @@
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
           {%- if author_is_self -%}
-            <em>{{author.first}} {{author.last}}</em>
+            <em>{{author.first}} {{author.last | replace: "*", "<span>*</span>"}}</em>
           {%- else -%}
             {%- if coauthor_url -%}
-              <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+              <a href="{{coauthor_url}}">{{author.first}} {{author.last | replace: "*", "<span>*</span>"}}</a>
             {%- else -%}
-              {{author.first}} {{author.last}}
+              {{author.first}} {{author.last | replace: "*", "<span>*</span>"}}
             {%- endif -%}
           {%- endif -%}
         {%- endfor -%}

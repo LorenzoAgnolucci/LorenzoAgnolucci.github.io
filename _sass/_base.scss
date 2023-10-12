@@ -161,6 +161,10 @@ blockquote {
       text-decoration: none;
     }
   }
+
+  span {
+    color: var(--global-theme-color);
+  }
 }
 
 
@@ -632,6 +636,10 @@ footer.sticky-bottom {
         >em {
           border-bottom: 1px solid;
           font-style: normal;
+        }
+
+        span {
+          color: var(--global-theme-color);
         }
 
         >span.more-authors {
