@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers about [prompt learning](https://arxiv.org/abs/2307.14063) and <a href="https://openaccess.thecvf.com/content/ICCV2023W/CLVL/html/Burbi_Mapping_Memes_to_Words_for_Multimodal_Hateful_Meme_Classification_ICCVW_2023_paper.html">hateful meme classification</a> accepted at the <a href="https://iccv-clvl.github.io/2023/">CLVL workshop</a> at ICCV 2023.
+Two papers about [prompt learning](https://arxiv.org/abs/2307.14063) and [hateful meme classification](https://arxiv.org/abs/2310.08368) accepted at the [CLVL workshop](https://iccv-clvl.github.io/2023/) at ICCV 2023.
