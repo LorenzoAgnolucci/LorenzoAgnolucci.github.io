@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/Home) (16% acceptance rate), a summer school awarded with the IEEE PAMI Mark Everingham Prize.
+Attended [ICVSS 2023](https://iplab.dmi.unict.it/icvss2023/Home), a summer school awarded with the IEEE PAMI Mark Everingham Prize (16% acceptance rate).
