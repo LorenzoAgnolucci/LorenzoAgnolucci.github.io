@@ -30,7 +30,7 @@ education:
 
 Hi! 👋
 
-I am Lorenzo Agnolucci. I am a 2nd year PhD student at the [University of Florence](https://www.unifi.it/changelang-eng.html) at the [Media Integration and Communication Center (MICC)](https://www.micc.unifi.it/) under the supervision of Prof. [Marco Bertini](https://scholar.google.com/citations?user=SBm9ZpYAAAAJ&hl=en). I also closely collaborate with [Alberto Baldrati](https://scholar.google.com/citations?user=I1jaZecAAAAJ&hl=en) and [Leonardo Galteri](https://scholar.google.com/citations?user=_n2R2bUAAAAJ&hl=en).
+I am Lorenzo Agnolucci. I am a 3rd year PhD student at the [University of Florence](https://www.unifi.it/changelang-eng.html) at the [Media Integration and Communication Center (MICC)](https://www.micc.unifi.it/) under the supervision of Prof. [Marco Bertini](https://scholar.google.com/citations?user=SBm9ZpYAAAAJ&hl=en). I also closely collaborate with [Alberto Baldrati](https://scholar.google.com/citations?user=I1jaZecAAAAJ&hl=en) and [Leonardo Galteri](https://scholar.google.com/citations?user=_n2R2bUAAAAJ&hl=en).
 
 
 Previously, I obtained my MSc in Computer Science and Engineering <em>magna cum laude</em> at the University of Florence under the supervision of Prof. [Marco Bertini](https://scholar.google.com/citations?user=SBm9ZpYAAAAJ&hl=en) and Prof. [Alberto Del Bimbo](https://scholar.google.com/citations?user=bf2ZrFcAAAAJ&hl=en) with a thesis titled <em>"Deep learning techniques for improving video visual quality using keyframes"</em>.
