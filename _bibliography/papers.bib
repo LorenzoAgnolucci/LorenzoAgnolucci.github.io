@@ -1,3 +1,15 @@
+@article{agnolucci2024qualityaware,
+      abbr={arXiv},
+      bibtex_show={true},
+      title={Quality-Aware Image-Text Alignment for Real-World Image Quality Assessment}, 
+      author={Agnolucci, Lorenzo and Galteri, Leonardo and Bertini, Marco},
+      abstract={No-Reference Image Quality Assessment (NR-IQA) focuses on designing methods to measure image quality in alignment with human perception when a high-quality reference image is unavailable. The reliance on annotated Mean Opinion Scores (MOS) in the majority of state-of-the-art NR-IQA approaches limits their scalability and broader applicability to real-world scenarios. To overcome this limitation, we propose QualiCLIP (Quality-aware CLIP), a CLIP-based self-supervised opinion-unaware method that does not require labeled MOS. In particular, we introduce a quality-aware image-text alignment strategy to make CLIP generate representations that correlate with the inherent quality of the images. Starting from pristine images, we synthetically degrade them with increasing levels of intensity. Then, we train CLIP to rank these degraded images based on their similarity to quality-related antonym text prompts, while guaranteeing consistent representations for images with comparable quality. Our method achieves state-of-the-art performance on several datasets with authentic distortions. Moreover, despite not requiring MOS, QualiCLIP outperforms supervised methods when their training dataset differs from the testing one, thus proving to be more suitable for real-world scenarios. Furthermore, our approach demonstrates greater robustness and improved explainability than competing methods. The code and the model are publicly available at https://github.com/miccunifi/QualiCLIP.},
+      year={2024},
+      arxiv={2403.11176},
+      code={https://github.com/miccunifi/QualiCLIP},
+      pdf={qualiclip_arxiv.pdf},
+}
+
 @inproceedings{agnolucci2024arniqa,
   abbr={WACV},
   abbrtype={Oral},
