@@ -30,9 +30,9 @@ education:
 
 Hi! 👋
 
-I am Lorenzo Agnolucci. I am a 3rd year PhD student at the [University of Florence](https://www.unifi.it/changelang-eng.html) at the [Media Integration and Communication Center (MICC)](https://www.micc.unifi.it/) under the supervision of Prof. [Marco Bertini](https://scholar.google.com/citations?user=SBm9ZpYAAAAJ&hl=en). I also closely collaborate with [Alberto Baldrati](https://scholar.google.com/citations?user=I1jaZecAAAAJ&hl=en) and [Leonardo Galteri](https://scholar.google.com/citations?user=_n2R2bUAAAAJ&hl=en).
+I am Lorenzo Agnolucci. I am a final year PhD student at the [University of Florence](https://www.unifi.it/changelang-eng.html) at the [Media Integration and Communication Center (MICC)](https://www.micc.unifi.it/) under the supervision of Prof. [Marco Bertini](https://scholar.google.com/citations?user=SBm9ZpYAAAAJ&hl=en). I also closely collaborate with [Alberto Baldrati](https://scholar.google.com/citations?user=I1jaZecAAAAJ&hl=en) and [Leonardo Galteri](https://scholar.google.com/citations?user=_n2R2bUAAAAJ&hl=en). I will defend my PhD thesis in Spring 2025.
 
-In the past, I've worked as a Research Intern at [SonyAI](https://ai.sony/) in Tokyo, Japan, under the supervision of [Vlad Hosu](https://scholar.google.com/citations?user=IzTZ1tAAAAAJ&hl=en) and [Daisuke Iso](https://scholar.google.ca/citations?user=VZ-25XwAAAAJ&hl=en).
+In the past, I have worked as a Research Intern at [SonyAI](https://ai.sony/) in Tokyo, Japan, under the supervision of [Vlad Hosu](https://scholar.google.com/citations?user=IzTZ1tAAAAAJ&hl=en) and [Daisuke Iso](https://scholar.google.ca/citations?user=VZ-25XwAAAAJ&hl=en).
 
 
 <!-- Previously, I obtained my MSc in Computer Science and Engineering <em>magna cum laude</em> at the University of Florence under the supervision of Prof. [Marco Bertini](https://scholar.google.com/citations?user=SBm9ZpYAAAAJ&hl=en) and Prof. [Alberto Del Bimbo](https://scholar.google.com/citations?user=bf2ZrFcAAAAJ&hl=en) with a thesis titled <em>"Deep learning techniques for improving video visual quality using keyframes"</em>. -->
