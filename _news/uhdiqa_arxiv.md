@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper about a <a href="https://arxiv.org/abs/2406.17472">new dataset for image quality assessment</a> released on arXiv.
+One paper about a <a href="https://arxiv.org/abs/2406.17472">new dataset for image quality assessment</a> accepted the [AIM 2024 workshop](https://www.cvlai.net/aim/2024/) at ECCV 2024
