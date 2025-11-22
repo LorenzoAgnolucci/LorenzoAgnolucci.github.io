@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD graduate at the University of Florence, Italy
+subtitle: Applied Machine Learning Scientist
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address:
+  address: 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -27,14 +27,10 @@ education:
 
 Hi! 👋
 
-I am Lorenzo Agnolucci. I am a PhD graduate at the [University of Florence](https://www.unifi.it/changelang-eng.html) at the [Media Integration and Communication Center (MICC)](https://www.micc.unifi.it/) under the supervision of Prof. [Marco Bertini](https://scholar.google.com/citations?user=SBm9ZpYAAAAJ&hl=en). 
-<!-- I also closely collaborate with [Alberto Baldrati](https://scholar.google.com/citations?user=I1jaZecAAAAJ&hl=en) and [Leonardo Galteri](https://scholar.google.com/citations?user=_n2R2bUAAAAJ&hl=en). -->
+I am Lorenzo Agnolucci, a Senior Machine Learning Engineer at [Roblox](https://corp.roblox.com) in San Mateo, CA, where I work on content understanding for large-scale recommendation systems.
 
-In the past, I have worked as a Research Intern at [SonyAI](https://ai.sony/) in Tokyo, Japan, under the supervision of [Vlad Hosu](https://scholar.google.com/citations?user=IzTZ1tAAAAAJ&hl=en) and [Daisuke Iso](https://scholar.google.ca/citations?user=VZ-25XwAAAAJ&hl=en).
+Previously, I completed my PhD at the [University of Florence](https://www.unifi.it/changelang-eng.html) in Italy, under the supervision of Prof. [Marco Bertini](https://scholar.google.com/citations?user=SBm9ZpYAAAAJ&hl=en). During my PhD, my main research interests revolved around image quality assessment and multimodal learning.
+
+As part of my PhD journey, I also worked as a Research Intern at [Sony AI](https://ai.sony/) in Tokyo, Japan, under the supervision of [Vlad Hosu](https://scholar.google.com/citations?user=IzTZ1tAAAAAJ&hl=en) and [Daisuke Iso](https://scholar.google.ca/citations?user=VZ-25XwAAAAJ&hl=en), focusing on image quality assessment.
 
 
-<!-- Previously, I obtained my MSc in Computer Science and Engineering <em>magna cum laude</em> at the University of Florence under the supervision of Prof. [Marco Bertini](https://scholar.google.com/citations?user=SBm9ZpYAAAAJ&hl=en) and Prof. [Alberto Del Bimbo](https://scholar.google.com/citations?user=bf2ZrFcAAAAJ&hl=en) with a thesis titled <em>"Deep learning techniques for improving video visual quality using keyframes"</em>. -->
-
-My main research interests revolve around <strong>low-level vision</strong>, with a particular focus on image quality assessment and video restoration, and <strong>vision-language models</strong>.
-
-<em>Feel free to email me if you would like to learn more about my research or if you are interested in potential collaborations!</em>
